@@ -30,7 +30,7 @@ if (!defined('_PS_VERSION_')) {
 
 class Seers extends Module
 {
-	public $apisecrekkey = '$2y$10$9ygTfodVBVM0XVCdyzEUK.0FIuLnJT0D42sIE6dIu9r/KY3XaXXyS';
+	public $apisecrekkey = '--------------secretkey---------------';
 	public function __construct()
 	{
 		$this->module_key = 'bf95963c818431a4778551a826a12f86';
